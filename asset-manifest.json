@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-project/static/css/main.eac64b89.css",
+    "main.js": "/React-project/static/js/main.ac7315f7.js",
+    "static/js/787.693acbf6.chunk.js": "/React-project/static/js/787.693acbf6.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/React-project/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-project/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/React-project/index.html",
+    "main.eac64b89.css.map": "/React-project/static/css/main.eac64b89.css.map",
+    "main.ac7315f7.js.map": "/React-project/static/js/main.ac7315f7.js.map",
+    "787.693acbf6.chunk.js.map": "/React-project/static/js/787.693acbf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eac64b89.css",
+    "static/js/main.ac7315f7.js"
+  ]
+}
