@@ -27,6 +27,9 @@
 </br>
 </br>
 <h1 align='center'>Internal screenshot</h1>  
+
+
+<img src="https://github.com/chunchen0118/React-project/blob/main/git_readme_img/home.PNG" width="50%" />
 <h3>Home Page</h3>
 
 ![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/home.PNG?raw=true)
