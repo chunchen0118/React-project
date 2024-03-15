@@ -29,5 +29,25 @@
 <h1 align='center'>Internal screenshot</h1>  
 <h3>Home Page</h3>
 
-![git_readme_img][github]
-[github]:https://raw.githubusercontent.com/chunchen0118/React-project/main/git_readme_img/home.PNG
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/home.PNG?raw=true)
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/home2.PNG?raw=true)
+
+<h3>News Page</h3>
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/news.PNG?raw=true)
+
+<h3>Product Page</h3>
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/product_cart.PNG?raw=true)
+
+<h3>Login Page</h3>
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/login.PNG?raw=true)
+
+<h3>Admin Page</h3>
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/admin_News.PNG?raw=true)
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/admin_NewsCreation.PNG?raw=true)
+
+![image](https://github.com/chunchen0118/React-project/blob/main/git_readme_img/admin_Report.PNG?raw=true)
