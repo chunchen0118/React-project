@@ -22,4 +22,12 @@
 <b>Technical：</b>
 </br>
 <span>&emsp;HTML, CSS, JS, Bootstrap, React</span>
+</br>
+</br>
+</br>
+</br>
+<h1 align='center'>Internal screenshot</h1>  
+<h3>Home Page</h3>
 
+![git_readme_img][github]
+[github]:https://raw.githubusercontent.com/chunchen0118/React-project/main/git_readme_img/home.PNG
