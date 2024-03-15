@@ -1,4 +1,4 @@
-<h1 align='center'>React-Project DEMO</h1>  
+<h1 align='center'>React-Project Demo</h1>  
 <b>DEMO：</b>https://chunchen0118.github.io/React-project/ 
 </br>
 </br>
