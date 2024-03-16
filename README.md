@@ -4,7 +4,7 @@
 </br>
 :white_medium_small_square:<b>Subscribe：</b> 
 </br>
-<span>&emsp;This website is constructed using the React framework and integrated with existing APIs. It provides the news articles, an overview of products, and the ability to submit orders within the shopping cart. Administrators can manage various business aspects in the backend and generate simple chart reports.The content of this website is for portfolio demonstration purposes only and is not intended for commercial profit.</span>
+<span color='red'>&emsp;This website is constructed using the React framework and integrated with existing APIs. It provides the news articles, an overview of products, and the ability to submit orders within the shopping cart. Administrators can manage various business aspects in the backend and generate simple chart reports.The content of this website is for portfolio demonstration purposes only and is not intended for commercial profit.</span>
 </br>
 </br>
 :white_medium_small_square:<b>Website Type：</b>
